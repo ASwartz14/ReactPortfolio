@@ -12,7 +12,7 @@ function App() {
       <div class="background-img"></div>
       <div>
         <NavTabs />
-        <Route exact path="/" component={About} />
+        <Route exact path="/ReactPortfolio" component={About} />
         <Route exact path="/about" component={About} />
         <Route exact path="/portfolio" component={Portfolio} />
         <Route path="/contact" component={Contact} />

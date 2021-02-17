@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.a3411fc5.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.a53c9abb.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.a53c9abb.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.5520ba06.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.5520ba06.js.map",
+    "static/css/2.150d169a.chunk.css": "/ReactPortfolio/static/css/2.150d169a.chunk.css",
+    "static/js/2.78a13171.chunk.js": "/ReactPortfolio/static/js/2.78a13171.chunk.js",
+    "static/js/2.78a13171.chunk.js.map": "/ReactPortfolio/static/js/2.78a13171.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/ReactPortfolio/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.a3411fc5.chunk.css.map": "/ReactPortfolio/static/css/main.a3411fc5.chunk.css.map",
+    "static/js/2.78a13171.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.78a13171.chunk.js.LICENSE.txt",
+    "static/media/DayPlanner.5ec4d0cc.png": "/ReactPortfolio/static/media/DayPlanner.5ec4d0cc.png",
+    "static/media/Quiz.e5e3ecf4.png": "/ReactPortfolio/static/media/Quiz.e5e3ecf4.png",
+    "static/media/WebDev.3f4abae0.pdf": "/ReactPortfolio/static/media/WebDev.3f4abae0.pdf",
+    "static/media/WhatsDin.b979bcf8.png": "/ReactPortfolio/static/media/WhatsDin.b979bcf8.png",
+    "static/media/index.css": "/ReactPortfolio/static/media/backgroundImg.ee146e6b.jpg",
+    "static/media/profPic.30f4a420.jpg": "/ReactPortfolio/static/media/profPic.30f4a420.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5520ba06.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.78a13171.chunk.js",
+    "static/css/main.a3411fc5.chunk.css",
+    "static/js/main.a53c9abb.chunk.js"
+  ]
+}

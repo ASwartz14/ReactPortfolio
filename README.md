@@ -34,7 +34,7 @@ social media links ommited from the homework as Instructor explicitly said to ma
 
 ## Website Link
 
-- [Deployed Bootstrap Portfolio website](https://aswartz14.github.io/BootstrapPortfolio/)
+- [Deployed Bootstrap Portfolio website](https://aswartz14.github.io/ReactPortfolio/)
 
 ## HTML Validation
 

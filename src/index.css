@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    color: white;
+    font-family: 'Fjalla One', sans-serif;
+}
+a {
+    color:#d8b2ee;
+} 
+.background-img::before {
+    content: "";
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url("./assets/backgroundImg.jpg");
+    opacity: .8;
+    position: fixed;
+    top: 0px;
+    right:0px;
+    bottom: 0px;
+    left: 0px;
+    display: flexbox;
+} 
+
+/* sets the navbar-brand color and font and margin for all html files*/
+.navbar-brand {
+    padding: 10px;
+    background-color: #d8b2ee;
+    font-weight: bold;
+    font-size: large;
+    color: rgb(177, 173, 173);
+  }
+
+  article {
+      
+      margin-top: 5%;
+  }
+
+  form {
+    
+    margin-top: 5%;
+    margin-left: 2%;
+}
+  
+.col-md-8 {
+    
+    margin-top: 5%;
+}
+
+.row {
+    margin-top: 5%;
+}
+
+main {
+    margin-bottom: 10%;
+}
+/* sets the sticky footer for all html files */
+footer {
+    color: #777;
+    background-color:#2c3438;
+    padding: 10px;
+    text-align: center;
+    border-top-style: solid;
+    border-top-color: #c38ae4;
+    border-top-width: 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  /* set the margin for bio image on about page */
+  .float-left {
+      margin-right: 2%;
+  }
